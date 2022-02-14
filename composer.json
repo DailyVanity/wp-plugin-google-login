@@ -1,0 +1,20 @@
+{
+  "name": "dailyvanity/plugins-google-login",
+  "description": "dailyvanity",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Chris Sim",
+      "email": "chris.sim@dailyvanity.sg"
+    },
+    {
+      "name": "Daily Vanity Tech",
+      "email": "tech@dailyvanity.sg"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DV-AUTH\\": "src/"
+    }
+  }
+}
