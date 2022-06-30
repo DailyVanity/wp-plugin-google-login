@@ -16,5 +16,8 @@
     "psr-4": {
       "DV-AUTH\\": "src/"
     }
+  },
+  "require": {
+    "google/apiclient": "^2.12"
   }
 }
